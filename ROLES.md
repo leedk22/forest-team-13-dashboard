@@ -38,6 +38,7 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Levi Whitener | levisw | The Engineer |
+| Darcelle Lee | leedk22 | Delivery Lead |
 
 ## Side quests
 
