@@ -40,6 +40,7 @@ One row per person. The same role may appear on more than one row.
 | Levi Whitener | levisw | The Engineer |
 | Darcelle Lee | leedk22 | Delivery Lead |
 | Gibson Kete | gekete | Pitch Lead (The Closer) |
+| Bennett Sturgill | BennettSturgill | The Strategist |
 
 ## Side quests
 
