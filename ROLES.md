@@ -41,7 +41,7 @@ One row per person. The same role may appear on more than one row.
 | Darcelle Lee | leedk22 | Delivery Lead |
 | Gibson Kete | gekete | Pitch Lead (The Closer) |
 | Bennett Sturgill | BennettSturgill | The Strategist |
-| Noah Sanders | sandna26@wfu.edu | Design Lead |
+| Noah Sanders | sandna26 | Design Lead |
 
 ## Side quests
 
